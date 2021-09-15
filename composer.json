@@ -1,5 +1,5 @@
 {
-    "name": "hiephv-0385/corcel",
+    "name": "hiephv0385/corcel",
     "replace": { "jgrossi/corcel": "self.version" },
     "description": "Use WordPress backend with Laravel or any PHP framework",
     "homepage": "https://github.com/hiephv-0385/corcel",
